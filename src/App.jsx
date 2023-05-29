@@ -10,6 +10,8 @@ function App() {
     <>
       <h1>React</h1>
       <p>Hello World</p>
+      <p>We are learning Programming</p>
+      <p>We love our profession</p>
     </>
   )
 }
